@@ -1,3 +1,5 @@
 beautifulsoup4==4.12.3
 cloudscraper==1.2.71
 requests==2.31.0
+Flask==3.0.2
+tzdata==2026.1
